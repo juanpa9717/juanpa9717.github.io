@@ -1,5 +1,5 @@
-body{ 
-    background-image: url(img/estrellas.jpg);
+body{
+background-image: url(img/estrellas.jpg);
 }
 .flg{
     color: blueviolet;
@@ -15,7 +15,7 @@ body{
 .txt{
     text-align: center;
     color: cyan;
-     font-size: 18px;
+     font-size: 21px;
      width: 90%;
      margin-left : 25px;
      margin-bottom: 10px;
