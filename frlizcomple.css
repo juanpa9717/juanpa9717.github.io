@@ -1,0 +1,31 @@
+body{
+
+    background-image: url(img/HD-wallpaper-starry-night-stars-purple-blue-dark.jpg)
+}
+.flg{
+    color: blueviolet;
+    text-align: center;
+    margin-top: 50px;
+    width: 100%;
+    font-size: 3em
+    ;
+}
+.oso{
+    width: 100%;
+}
+.txt{
+    text-align: center;
+    color: cyan;
+     font-size: 21px;
+     width: 250px;
+     margin-left : 50px;
+     margin-bottom: 10px;
+}
+.desp{
+    color: blueviolet;
+    text-align: center;
+    margin-top: 50px;
+    width: 100%;
+    font-size: 1em;
+    margin-bottom: 25px;
+}
